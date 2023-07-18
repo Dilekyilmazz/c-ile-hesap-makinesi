@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689678731 source:c:\users\dilek\onedrive\belgeler\hesapmakinesi\main.c
+	<stdio.h>
+	<stdlib.h>
+
